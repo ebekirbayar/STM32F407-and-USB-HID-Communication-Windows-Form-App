@@ -1,0 +1,2 @@
+# STM32F407-and-USB-HID-Communication-Windows-Form-App
+ "STM32F407 and USB HID Communication Windows Form App" is a GitHub repository containing firmware for STM32F407 microcontroller and a Windows Form application for communication via USB HID (Human Interface Device) protocol. It facilitates reliable data exchange between the microcontroller and a computer, serving as a valuable resource for understanding and implementing USB HID communication.
