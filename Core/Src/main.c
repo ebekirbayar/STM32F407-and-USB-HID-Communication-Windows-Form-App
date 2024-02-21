@@ -178,7 +178,7 @@ int main(void) {
 				HAL_GPIO_WritePin(GPIOD, GPIO_PIN_15, 1);
 				USB_TX_Buffer[3] = 3;
 				giden_data = 1;
-				HAL_UART_Transmit(&huart2, "Samed", 5, 10);
+				HAL_UART_Transmit(&huart2, "Jack", 5, 10);
 				soundData = soundLevel;
 				HAL_Delay(100);
 			} else {
