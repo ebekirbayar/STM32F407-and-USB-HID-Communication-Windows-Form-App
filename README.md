@@ -67,7 +67,7 @@
 
 #### Setup:
 * Clone or download this repository to your local machine.
-* Follow detailed setup instructions provided in the documentation to configure both the STM32F407 microcontroller and the <a href="https://github.com/ebekirbayar/STM32F407-and-USB-HID-Communication-Windows-Form-App.git">Windows Form app.</a> 
+* Follow detailed setup instructions provided in the documentation to configure both the STM32F407 microcontroller and the <a href="https://github.com/ebekirbayar/RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration.git">Windows Form app.</a> 
 #### Integration:
 * After configuring the settings, download the Windows Form app from the designated GitHub repository.
 Integrate the Windows Form app with the STM32F407 device following the integration guidelines provided.
